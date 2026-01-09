@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/ce113b1d-85a5-46ec-a88b-9beed56dcf10
 ---
 
 ### Kai's Vault (*final draft*)
-Your memory is not a vault. This is.
+Your memory is not a vault but this is.
 
 https://github.com/user-attachments/assets/d067cfb3-c658-4f7f-acdf-b26da11eaa4a
 
