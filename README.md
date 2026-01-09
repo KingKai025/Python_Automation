@@ -22,19 +22,27 @@ https://github.com/user-attachments/assets/bab35ac1-8746-4a07-95e4-da32a99bc62a
 ---
 
 ### Password Manager
+Remember one password and let the rest stay unbreakable.
 
+
+https://github.com/user-attachments/assets/fd870519-3190-4fb3-a34c-710e7c394f40
 
 *Ref 3: the code*
 
+
+https://github.com/user-attachments/assets/ce113b1d-85a5-46ec-a88b-9beed56dcf10
 
 *Ref 4: the output*
 
 ---
 
 ### Kai's Vault (*final draft*)
+Your memory is not a vault. This is.
 
+https://github.com/user-attachments/assets/d067cfb3-c658-4f7f-acdf-b26da11eaa4a
 
 *Ref 5: the code*
 
+https://github.com/user-attachments/assets/ec6a7e8c-525f-4983-829e-aaed51801da9
 
 *Ref 6: the output*
