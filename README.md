@@ -11,7 +11,8 @@ The weakest link in security is often human behavior and poor password practices
 ### Password Generator
 Why think like a human when you can generate like a machine?
 
-https://github.com/user-attachments/assets/9f5bd35b-31c0-4539-95de-b2d2eaa7a4dc
+<video src="https://github.com/user-attachments/assets/9f5bd35b-31c0-4539-95de-b2d2eaa7a4dc" autoplay muted loop playsinline></video>
+
 
 *Ref 1: the code*
 
