@@ -3,7 +3,7 @@ A collection of practical Python automation projects designed to reduce manual e
 
 ---
 
-## Password Automation
+## PASSWORD AUTOMATION
 The weakest link in security is often human behavior and poor password practices. This project automates the generation of strong, high-entropy passwords and supports their use with password managers to reduce credential reuse and weak password risks. It is designed as a simple, practical tool to help improve baseline security hygiene through automation.
 
 ---
@@ -47,3 +47,9 @@ https://github.com/user-attachments/assets/d067cfb3-c658-4f7f-acdf-b26da11eaa4a
 https://github.com/user-attachments/assets/ec6a7e8c-525f-4983-829e-aaed51801da9
 
 *Ref 6: the output*
+
+---
+
+## WHOIS LOOKUP
+
+___
